@@ -4,8 +4,8 @@
   
 </p>
 
+<h1 align=center>
+  
 ![Visitor Count](https://profile-counter.glitch.me/theidari/count.svg)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theidari)
-
-![](https://komarev.com/ghpvc/?username=your-github-theidari&style=flat-square&&color=000000)
+</h1> 
