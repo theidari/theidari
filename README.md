@@ -14,3 +14,6 @@ $\space \space \space \space \space \space \space \space \space \space \bullet \
 
 $\bullet \space \mathsf{\color{limegreen}Project}$
 
+<p align="left">
+<img src="https://github.com/theidari/theidari/blob/main/postgresql.png" width="50">
+</p>
