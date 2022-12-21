@@ -14,10 +14,8 @@ $\space \space \space \space \space \space \space \space \space \space \bullet \
 
 $\bullet \space \mathsf{\color{limegreen}Project}$
 
+
 <p align="left">
-<img src="https://github.com/theidari/theidari/blob/main/postgresql.png" width="50">
-</p>
-<p align="left">
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" width="100">
+<img src="https://github.com/theidari/theidari/blob/main/programming.png" width="1000">
 </p>
 
