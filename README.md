@@ -17,6 +17,10 @@ $\space \space \space \space \space \space \space \space \space \space \space \s
 
 </h1> 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theidari&label=Profile%20views&color=ce9927&style=flat" alt="theidari" /> </p>
+
+
+
 
 <p align="left">
 <img src="https://github.com/theidari/theidari/blob/main/programming2.png" width="1500">
