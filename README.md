@@ -19,6 +19,6 @@ $\space \space \space \space \space \space \space \space \space \space \space \s
 
 
 <p align="left">
-<img src="https://github.com/theidari/theidari/blob/main/programming.png" width="1500">
+<img src="https://github.com/theidari/theidari/blob/main/programming1.png" width="1500">
 </p>
 
