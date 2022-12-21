@@ -14,6 +14,6 @@
 $\space \space \space \space \space \space \space \space \space \space \bullet \space \mathsf{\color{blue}MAP}$
 
 <p align="left">
-<img src="https://github.com/theidari/theidari/blob/main/programming.png" width="1000">
+<img src="https://github.com/theidari/theidari/blob/main/programming.png" width="1500">
 </p>
 
