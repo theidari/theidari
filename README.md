@@ -10,10 +10,8 @@
 
 </h1> 
 
-$\space \space \space \space \space \space \space \space \space \space \bullet \space \mathsf{\color{red}OverView}$
 
-$\bullet \space \mathsf{\color{limegreen}Project}$
-
+$\space \space \space \space \space \space \space \space \space \space \bullet \space \mathsf{\color{blue}MAP}$
 
 <p align="left">
 <img src="https://github.com/theidari/theidari/blob/main/programming.png" width="1000">
