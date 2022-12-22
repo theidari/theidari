@@ -12,11 +12,10 @@ $\space \space \space \space \space \space \space \space \space \space \space \s
 
 
 <h1 align=center>
-  
-![Visitor Count](https://profile-counter.glitch.me/theidari/count.svg)
-
 </h1> 
 
+
+![Visitor Count](https://profile-counter.glitch.me/theidari/count.svg)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theidari&label=Profile%20views&color=ce9927&style=flat" alt="theidari" /> </p>
 
 
