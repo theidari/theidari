@@ -20,7 +20,7 @@ $\space \space \space \space \space \space \space \space \space \space \space \s
 ![Visitor Count](https://profile-counter.glitch.me/theidari/count.svg)
 
 
-<p align="left">
-<img src="https://github.com/theidari/theidari/blob/main/programming2.png" width="1500">
+<p align="Center">
+<img src="https://github.com/theidari/theidari/blob/main/programming2.png" width="1000">
 </p>
 
