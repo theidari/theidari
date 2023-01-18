@@ -17,7 +17,7 @@
 </p>
 
 <p align="Center">
-<img src="https://github.com/theidari/statusrepo/blob/master/generated/overview.svg" width="400"><img src="https://raw.githubusercontent.com/theidari/statusrepo/5509c0123193758bea5fd82fefa810a408a95dc3/generated/languages.svg">
+<img src="https://github.com/theidari/statusrepo/blob/master/generated/overview.svg" width="400"><img src="https://github.com/theidari/statusrepo/blob/master/generated/languages.svg" width="400">
 </p>
 
 
