@@ -1,6 +1,6 @@
 <p align=center>
   
-![](https://github.com/theidari/theidari/blob/main/site%20backgroundwe.gif)
+<img src="https://github.com/theidari/theidari/blob/main/site%20backgroundwe.gif" width="720">
   
 </p>
 
