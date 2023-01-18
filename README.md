@@ -5,22 +5,15 @@
 </p>
 
 </br>
-
-
-
- 
-
-
-
-<h1 align=center>
-</h1> 
-
-
-![Visitor Count](https://profile-counter.glitch.me/theidari/count.svg)
+<p align=center> 
+<img src="https://profile-counter.glitch.me/theidari/count.svg">
+ </p>
 
 
 <p align="Center">
+  
 <img src="https://github.com/theidari/theidari/blob/main/programming2.png" width="725">
+  
 </p>
 
 <p align="Center">
