@@ -1,6 +1,6 @@
 <p align=center>
   
-<img src="https://github.com/theidari/theidari/blob/main/site%20backgroundwe.gif" width="720">
+<img src="https://raw.githubusercontent.com/theidari/theidari/main/background.gif" width="720">
   
 </p>
 
