@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="73px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="63.5px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="104px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="104px">
+<img src="https://img.shields.io/badge/matlab-%23323330.svg?style=for-the-badge&logo=matlab&logoColor=%23F7DF1E" width="104px">
 <img src="https://img.shields.io/badge/Visual Basic-%512BD4.svg?style=for-the-badge&logo=.net&logoColor=#512BD4" width="115px">
  
 
