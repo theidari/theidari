@@ -4,7 +4,7 @@
   
 </p>
 </br>
-Language and Tools:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Language and Tools:
 <p align=center>
 <img src="https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=Python&logoColor=yellow" width="80px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="73px">
