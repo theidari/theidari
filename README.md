@@ -1,6 +1,8 @@
 <p align=center> 
-<img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720">
+<img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720"></br>
+<img src="https://simpleicons.org/icons/twitter.svg" width="15"></br>
 </p>
+
 </br>
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_up.png" width="720"></br>
