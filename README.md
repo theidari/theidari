@@ -1,6 +1,25 @@
+<!--readme header-->
 <p align=center> 
-<img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720"></br>
-<a href="https://twitter.com/theidariali"><img src="https://simpleicons.org/icons/twitter.svg" width="15">  </a>
+  <img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720"></br>
+  <a href="https://twitter.com/theidariali" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="15px" width="15px"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/20154921/ali-taghipour-heidari" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="twitter" height="15px" width="15px"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/theidari/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="twitter" height="15px" width="15px"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@theidari.ali" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://simpleicons.org/icons/medium.svg" alt="twitter" height="15px" width="15px"/>
+  </a>
+   &nbsp;
+  <a href="mailto:theidari.ali@gmail.com" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="twitter" height="15px" width="15px"/>
+  </a>
 </p>
 
 </br>
