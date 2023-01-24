@@ -46,5 +46,3 @@
 <img src="https://github.com/theidari/statusrepo/blob/master/generated/overview.svg" >
 <img src="https://github.com/theidari/statusrepo/blob/master/generated/languages.svg" >
 </p>
-
-
