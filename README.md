@@ -21,8 +21,8 @@
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="15px" width="15px"/>
   </a>
 </p>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   Pursuing Data Analytics program @ 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Pursuing <b>Data Analytics</b> program @ 
    <a href="https://bootcamp.learn.utoronto.ca/data/" target="_blank" style='margin-right:10px'> University of Toronto</a>.</br></br>
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_up.png" width="720"></br>
