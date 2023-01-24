@@ -6,23 +6,24 @@
   </a>
   &nbsp;
   <a href="https://stackoverflow.com/users/20154921/ali-taghipour-heidari" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="twitter" height="15px" width="15px"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="15px" width="15px"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/theidari/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="twitter" height="15px" width="15px"/>
+    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="15px" width="15px"/>
   </a>
   &nbsp;
   <a href="https://medium.com/@theidari.ali" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://simpleicons.org/icons/medium.svg" alt="twitter" height="15px" width="15px"/>
+    <img align="center" src="https://simpleicons.org/icons/medium.svg" alt="medium" height="15px" width="15px"/>
   </a>
    &nbsp;
   <a href="mailto:theidari.ali@gmail.com" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="twitter" height="15px" width="15px"/>
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="15px" width="15px"/>
   </a>
 </p>
-
-</br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Pursuing Data Analytics program @ 
+   <a href="https://bootcamp.learn.utoronto.ca/data/" target="_blank" style='margin-right:10px'> University of Toronto</a>.</br></br>
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_up.png" width="720"></br>
   
