@@ -1,6 +1,6 @@
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720"></br>
-<img src="https://simpleicons.org/icons/twitter.svg" width="15"></br>
+<a herf="https://twitter.com/theidariali"><img src="https://simpleicons.org/icons/twitter.svg" width="15"></a><img src="https://simpleicons.org/icons/twitter.svg" width="15">
 </p>
 
 </br>
