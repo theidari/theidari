@@ -20,6 +20,10 @@
   <a href="mailto:theidari.ali@gmail.com" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="15px" width="15px"/>
   </a>
+   &nbsp;
+  <a href="mailto:theidari.ali@gmail.com" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://simpleicons.org/icons/kaggle.svg" alt="kaggle" height="30px" width="30px"/>
+  </a>
 </p>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    Pursuing <b>Data Analytics</b> program @ 
