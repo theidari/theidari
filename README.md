@@ -22,7 +22,7 @@
   </a>
    &nbsp;
   <a href="mailto:theidari.ali@gmail.com" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://simpleicons.org/icons/kaggle.svg" alt="kaggle" height="30px" width="30px"/>
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png" alt="kaggle" height="12px" width="12px"/>
   </a>
 </p>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
