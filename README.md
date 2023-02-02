@@ -38,7 +38,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
  to apply my expertise to help organizations make informed decisions and drive meaningful results through data-driven</br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
- strategies.</p>
+ <p align="justify">strategies.</p>
    <a href="https://bootcamp.learn.utoronto.ca/data/" target="_blank" style='margin-right:10px'> University of Toronto</a>.</br></br>
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_up.png" width="720"></br>
