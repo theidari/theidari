@@ -1,6 +1,6 @@
 <!--readme header-->
 <p align=center> 
-  <img src="https://github.com/theidari/theidari/blob/main/IMG/header.png" width="720"></br>
+  <img src="https://github.com/theidari/theidari/blob/main/asset/header.png" width="720"></br>
   <a href="https://twitter.com/theidariali" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="15px" width="15px"/>
   </a>
@@ -31,7 +31,7 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 
 
 <p align=center> 
-<img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_up.png" width="720"></br>
+<img src="https://github.com/theidari/theidari/blob/main/asset/language_and_tools_up.png" width="720"></br>
   
 <img src="https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=Python&logoColor=yellow" width="80px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="73px">
@@ -45,7 +45,7 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="75px"></br>
 
 
-<img src="https://github.com/theidari/theidari/blob/main/IMG/language_and_tools_down.png" width="720">
+<img src="https://github.com/theidari/theidari/blob/main/asset/language_and_tools_down.png" width="720">
 </p>
 
 </p>
