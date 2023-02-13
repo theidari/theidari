@@ -44,6 +44,7 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="91px">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="75px"></br>
 
+<img src="https://img.shields.io/badge/leaflet-%2307405e.svg?style=for-the-badge&logo=leaflet&logoColor=white" width="75px"></br>
 
 <img src="https://github.com/theidari/theidari/blob/main/asset/language_and_tools_down.png" width="720">
 </p>
