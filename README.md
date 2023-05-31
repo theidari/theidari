@@ -1,6 +1,6 @@
 <!--readme header-->
 <p align=center> 
-  <h3>Ali T. Heidari <img src="https://img.shields.io/badge/ -lightgray.svg?style=for-the-badge" width="1500px" height="1px"></h3>
+  <h3>Ali T. Heidari <img src="https://img.shields.io/badge/ -d2d9e0.svg?style=for-the-badge" width="1500px" height="1px"></h3>
   <h6>Data Devotee, Programming Enthusiast, Green Life Scientist</h6> 
 
   <a href="https://twitter.com/theidariali" target="_blank" style='margin-right:10px'>
@@ -51,7 +51,7 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 <img src="https://img.shields.io/badge/tableau-lightgray.svg?style=for-the-badge&logo=tableau&logoColor=darkblue">
 <img src="https://img.shields.io/badge/plotly-skyblue.svg?style=for-the-badge&logo=plotly&logoColor=darkblue"></br>
 
-<img src="https://img.shields.io/badge/ -black.svg?style=for-the-badge" width="1500px" height="1px">
+<img src="https://img.shields.io/badge/ -d2d9e0.svg?style=for-the-badge" width="1500px" height="1px">
 
 </p>
 
