@@ -33,8 +33,8 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 <p align=center> 
 <img src="https://github.com/theidari/theidari/blob/main/asset/language_and_tools_up.png" width="720"></br>
   
-<img src="https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=Python&logoColor=yellow" width="80px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="73px">
+<img src="https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=Python&logoColor=yellow">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="63.5px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="104px">
 <img src="https://img.shields.io/badge/matlab-%23316192.svg?style=for-the-badge&logo=matlab&logoColor=%23E34F26" width="63">
@@ -46,7 +46,7 @@ As a highly trained data scientist and accomplished chemical engineer, I bring a
 <img src="https://img.shields.io/badge/leaflet-%199900.svg?style=for-the-badge&logo=leaflet&logoColor=gray" width="80px"></br>
 
 <img src="https://img.shields.io/badge/Data visualization:-white.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/tableau-%199900.svg?style=for-the-badge&logo=tableau&logoColor=gray"></br>
+<img src="https://img.shields.io/badge/tableau-lightgray.svg?style=for-the-badge&logo=tableau&logoColor=darkblue"></br>
 <img src="https://github.com/theidari/theidari/blob/main/asset/language_and_tools_down.png" width="720">
 </p>
 
