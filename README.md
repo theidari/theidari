@@ -1,6 +1,8 @@
 <!--readme header-->
 <p align=center> 
   <img src="https://github.com/theidari/theidari/blob/main/asset/header.png" width="720"></br>
+  <h3>Ali T. Heidari</h3>
+  <h6>Data Devotee, Programming Enthusiast, Green Life Scientist</h6>
   <a href="https://twitter.com/theidariali" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="15px" width="15px"/>
   </a>
