@@ -1,7 +1,7 @@
 <!--readme header-->
 <p align=center> 
-  <h3>Ali T. Heidari <img src="https://img.shields.io/badge/ -black.svg?style=for-the-badge" width="1500px" height="1px">
-  <h6>Data Devotee, Programming Enthusiast, Green Life Scientist</h6> </h3>
+  <h3>Ali T. Heidari <img src="https://img.shields.io/badge/ -lightgray.svg?style=for-the-badge" width="1500px" height="1px"></h3>
+  <h6>Data Devotee, Programming Enthusiast, Green Life Scientist</h6> 
 
   <a href="https://twitter.com/theidariali" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="15px" width="15px"/>
