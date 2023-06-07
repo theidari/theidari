@@ -25,6 +25,7 @@
 
 <img src="https://img.shields.io/badge/Visualization-white.svg?style=for-the-badge">
 <img src="https://img.shields.io/badge/tableau-lightgray.svg?style=for-the-badge&logo=tableau&logoColor=darkblue">
+<img src="https://img.shields.io/badge/power bi-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/plotly-skyblue.svg?style=for-the-badge&logo=plotly&logoColor=darkblue">
 <img src="https://img.shields.io/badge/leaflet-%199900.svg?style=for-the-badge&logo=leaflet&logoColor=gray"></br>
 
