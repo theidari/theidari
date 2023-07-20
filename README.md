@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/plotly-skyblue.svg?style=for-the-badge&logo=plotly&logoColor=darkblue">
 <img src="https://img.shields.io/badge/leaflet-%199900.svg?style=for-the-badge&logo=leaflet&logoColor=gray"></br>
 
+<img src="https://img.shields.io/badge/Cloud Computing-white.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/google cloud-%231572B6.svg?style=for-the-badge&logo=googlecloud&logoColor=skyblue">
+
 <img src="https://img.shields.io/badge/ -d2d9e0.svg?style=for-the-badge" width="1500px" height="1px">
 
 </p>
