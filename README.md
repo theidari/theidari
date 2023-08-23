@@ -9,7 +9,6 @@
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/Languages-white.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/ -white.svg?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=Python&logoColor=yellow">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
