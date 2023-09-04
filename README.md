@@ -2,10 +2,6 @@
 <img src="https://img.shields.io/badge/Ali T. Heidari-d2d9e0.svg?style=for-the-badge" width="200px"><br>
 <img src="https://img.shields.io/badge/Data Devotee, Programming Enthusiast, Green Life Scientist-d2d9e0.svg?style=for-the-badge" width="780px">
 <img src="https://img.shields.io/badge/ -d2d9e0.svg?style=for-the-badge" width="1500px" height="1px">
- 
-<p align="justify">
-<q>As a highly trained data scientist and accomplished chemical engineer, I bring a unique perspective and expertise to the field of data analysis. With a Master's degree in Chemical Engineering and years of experience solving complex problems, I have developed a deep understanding of the importance of data-driven decision making. To further enhance my skills, I am currently enrolled in the <a href="https://bootcamp.learn.utoronto.ca/data/">University of Toronto Data Analytics Bootcamp</a>, where I am honing my abilities to extract meaningful insights from large data sets and communicate findings in a clear and compelling manner. I am eager to apply my expertise to help organizations make informed decisions and drive meaningful results through data-driven strategies. <Portfolio><Portfolio>
-</q></p>
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/Languages-white.svg?style=for-the-badge">
